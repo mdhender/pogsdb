@@ -1,2 +1,2 @@
-# objdb
-A poor clone of TaffyDB 
+# PogsDB
+A very poor implmentation of TaffyDB in Go.
